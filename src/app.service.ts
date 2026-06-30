@@ -8,4 +8,9 @@ export class AppService {
   getHelloNew(): string {
     return 'Hello World! sending files to main barch form test brach to main';
   }
+
+  featureBracnhToRelease() {
+    console.log("featureBracnhToRelease");
+
+  }
 }
