@@ -11,6 +11,6 @@ export class AppService {
 
   featureBracnhToRelease() {
     console.log("featureBracnhToRelease");
-
+    console.log("pulledFromFeature->Release-33.0.0->now sending to main");
   }
 }
